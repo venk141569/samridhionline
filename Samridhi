@@ -19,3 +19,5 @@
                     var script = document.createElement('script');
                     script.src = 'https://static.parastorage.com/unpkg/@formatjs/intl-segmenter@11.7.10/polyfill.iife.js';
                     document.head.appendChild(script);  
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7707109900636445"
+     crossorigin="anonymous"></script>
